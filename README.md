@@ -15,4 +15,4 @@ Option
 
 Option shift
 
-![option-shift](https://raw.githubusercontent.com/jindraj/vok/vok4mac/layout_images/option-shift.png)
+![option-shift](https://raw.githubusercontent.com/jindraj/vok/vok4mac/layout_images/option_shift.png)
